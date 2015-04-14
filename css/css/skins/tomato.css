@@ -1,0 +1,32 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: #36b830; }
+
+.color_element {
+  color: #36b830; }
+
+.color_bg {
+  background-color: #36b830; }
+
+.color_border {
+  border-color: #36b830; }
+
+.bg_light {
+  background-color: #FAFAFA; }
+
+.bg_light2 {
+  background-color: #f3f3fd; }
+
+footer {
+  background-color: #606e6e; }
+
+h1 {
+  color: #606e6e; }
+
+.text-danger {
+  color: #36b830; }
+
+/*# sourceMappingURL=tomato.css.map */
